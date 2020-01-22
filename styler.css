@@ -4,3 +4,6 @@ h1 {
 table {
 	border: 1 solid red;
 }
+li {
+	color: grey;
+}
