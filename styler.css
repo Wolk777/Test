@@ -4,3 +4,6 @@ h1 {
 table {
 	border: 1 solid red;
 }
+ol {
+	margin-left: 50px;
+}
